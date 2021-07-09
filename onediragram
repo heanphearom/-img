@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-09T09:53:43.285Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64" etag="4Ehtd1fkvFwZeRCCz_qP" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-09T10:02:44.861Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64" etag="3msHKYvJLX2P-wFYKQet" version="14.8.5" type="github">
   <diagram id="ig_W4LufvhVDZaFNu0tv" name="Page-1">
-    <mxGraphModel dx="4013" dy="2415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4724" dy="2812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,13 +15,28 @@
             <mxPoint x="-490" y="118.23999999999978" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aB7QLTYLhxWNW0bwn9_k-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=1.5;strokeColor=#333333;" edge="1" parent="1" source="Du6cDQnXWuCzEyuGrA_D-2" target="Du6cDQnXWuCzEyuGrA_D-21">
+        <mxCell id="aB7QLTYLhxWNW0bwn9_k-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=1.5;strokeColor=#333333;" edge="1" parent="1" source="Du6cDQnXWuCzEyuGrA_D-2" target="Du6cDQnXWuCzEyuGrA_D-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1060" y="116" />
+              <mxPoint x="-1060" y="163" />
               <mxPoint x="-1060" y="440" />
               <mxPoint x="605" y="440" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aB7QLTYLhxWNW0bwn9_k-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;fontSize=13;fontColor=#333333;strokeWidth=1.5;strokeColor=#333333;" edge="1" parent="1" source="Du6cDQnXWuCzEyuGrA_D-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="-339" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1060" y="68" />
+              <mxPoint x="-1060" y="-339" />
+              <mxPoint x="-10" y="-339" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aB7QLTYLhxWNW0bwn9_k-20" value="Manage Item" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontStyle=1;fontColor=#333333;" vertex="1" connectable="0" parent="aB7QLTYLhxWNW0bwn9_k-19">
+          <mxGeometry x="0.1571" relative="1" as="geometry">
+            <mxPoint y="11" as="offset" />
           </mxGeometry>
         </mxCell>
         <UserObject label="Verify Authentication" lucidchartObjectId="ms6S6.t9Iynb" id="Du6cDQnXWuCzEyuGrA_D-2">
