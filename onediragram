@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-09T15:05:36.562Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64" etag="aYjQATzlKaUOKnU7MToO" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-09T15:16:11.823Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64" etag="ruUmqJ8Wci7NK2VWBt3-" version="14.8.5" type="github">
   <diagram id="ig_W4LufvhVDZaFNu0tv" name="Page-1">
-    <mxGraphModel dx="4062" dy="2434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2190" dy="1394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -613,9 +613,9 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="Du6cDQnXWuCzEyuGrA_D-101" value="Item Info" style="text;html=1;resizable=0;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;fontStyle=1;fontColor=#333333;;fontSize=13.3;" parent="Du6cDQnXWuCzEyuGrA_D-100" vertex="1">
+        <mxCell id="Du6cDQnXWuCzEyuGrA_D-101" value="Product Info" style="text;html=1;resizable=0;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;fontStyle=1;fontColor=#333333;;fontSize=13.3;" parent="Du6cDQnXWuCzEyuGrA_D-100" vertex="1">
           <mxGeometry x="-0.5959382290644892" relative="1" as="geometry">
-            <mxPoint x="-38" y="27" as="offset" />
+            <mxPoint x="-49" y="27" as="offset" />
           </mxGeometry>
         </mxCell>
         <UserObject label="Category" lucidchartObjectId="Uq7Sm93M25tP" id="Du6cDQnXWuCzEyuGrA_D-112">
@@ -641,8 +641,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tKgAJqZA-DIcAC6lHn7X-9" value="Manipulate&amp;nbsp;Item" style="text;html=1;resizable=0;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;fontStyle=1;fontColor=#333333;;fontSize=13.3;" parent="1" vertex="1">
-          <mxGeometry x="110.00258722376874" y="-289.9956978435565" as="geometry" />
+        <mxCell id="tKgAJqZA-DIcAC6lHn7X-9" value="Manipulate Prodcut" style="text;html=1;resizable=0;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;fontStyle=1;fontColor=#333333;;fontSize=13.3;" parent="1" vertex="1">
+          <mxGeometry x="120.00258722376874" y="-289.9956978435565" as="geometry" />
         </mxCell>
         <mxCell id="aB7QLTYLhxWNW0bwn9_k-1" value="" style="endArrow=classic;html=1;strokeWidth=1.5;strokeColor=#5E5E5E;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.015;exitY=0.594;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="aB7QLTYLhxWNW0bwn9_k-5" target="Du6cDQnXWuCzEyuGrA_D-112" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -688,7 +688,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-LUCDSikNeme2i-oKjTY-3" value="Manipulate Item" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontStyle=1;fontColor=#333333;" parent="-LUCDSikNeme2i-oKjTY-1" vertex="1" connectable="0">
+        <mxCell id="-LUCDSikNeme2i-oKjTY-3" value="Manipulate Product" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontStyle=1;fontColor=#333333;" parent="-LUCDSikNeme2i-oKjTY-1" vertex="1" connectable="0">
           <mxGeometry x="0.636" relative="1" as="geometry">
             <mxPoint x="55" y="13" as="offset" />
           </mxGeometry>
@@ -702,7 +702,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-LUCDSikNeme2i-oKjTY-4" value="Item Info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontStyle=1;fontColor=#333333;" parent="-LUCDSikNeme2i-oKjTY-2" vertex="1" connectable="0">
+        <mxCell id="-LUCDSikNeme2i-oKjTY-4" value="Product Info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontStyle=1;fontColor=#333333;" parent="-LUCDSikNeme2i-oKjTY-2" vertex="1" connectable="0">
           <mxGeometry x="-0.6831" y="-1" relative="1" as="geometry">
             <mxPoint x="78" y="13" as="offset" />
           </mxGeometry>
