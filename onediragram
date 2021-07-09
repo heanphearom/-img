@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-09T12:42:31.539Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64" etag="Tja47XNCQz0Vu2cTSzln" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-09T12:48:38.603Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64" etag="viTdJcE2ZLp9BDcco98g" version="14.8.5" type="github">
   <diagram id="ig_W4LufvhVDZaFNu0tv" name="Page-1">
-    <mxGraphModel dx="2616" dy="1630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2409" dy="1516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -193,7 +193,7 @@
         </UserObject>
         <UserObject label="Shipping" lucidchartObjectId="pS6S-yFv1W9R" id="Du6cDQnXWuCzEyuGrA_D-23">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=18;spacing=0;strokeColor=#666666;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=1.5;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;" parent="1" vertex="1">
-            <mxGeometry x="524.8" y="-536.4" width="210" height="75" as="geometry" />
+            <mxGeometry x="524.8" y="-562.4" width="210" height="75" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="-S6Sft254H8M" id="Du6cDQnXWuCzEyuGrA_D-24">
@@ -220,7 +220,7 @@
         </UserObject>
         <mxCell id="Du6cDQnXWuCzEyuGrA_D-27" value="Address Info" style="text;html=1;resizable=0;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;fontStyle=1;fontColor=#333333;;fontSize=13.3;" parent="Du6cDQnXWuCzEyuGrA_D-26" vertex="1">
           <mxGeometry x="0.512338593825787" relative="1" as="geometry">
-            <mxPoint x="-54" y="-34" as="offset" />
+            <mxPoint x="-50" y="-45" as="offset" />
           </mxGeometry>
         </mxCell>
         <UserObject label="Order" lucidchartObjectId="YT6SfJIU7vTZ" id="Du6cDQnXWuCzEyuGrA_D-28">
@@ -475,7 +475,7 @@
         </UserObject>
         <mxCell id="Du6cDQnXWuCzEyuGrA_D-64" value="Order Info" style="text;html=1;resizable=0;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;fontStyle=1;fontColor=#333333;;fontSize=13.3;" parent="Du6cDQnXWuCzEyuGrA_D-63" vertex="1">
           <mxGeometry x="0.23964650391545606" relative="1" as="geometry">
-            <mxPoint x="-90" y="-203" as="offset" />
+            <mxPoint x="-90" y="-234" as="offset" />
           </mxGeometry>
         </mxCell>
         <UserObject label="" lucidchartObjectId="k16Sp7hsTqy." id="Du6cDQnXWuCzEyuGrA_D-65">
@@ -507,11 +507,11 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="" lucidchartObjectId="Q26SXjI4v.uS" id="Du6cDQnXWuCzEyuGrA_D-69">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;exitX=0.996;exitY=0.855;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Du6cDQnXWuCzEyuGrA_D-16" target="Du6cDQnXWuCzEyuGrA_D-21" edge="1">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Du6cDQnXWuCzEyuGrA_D-16" target="Du6cDQnXWuCzEyuGrA_D-21" edge="1">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points">
-                <mxPoint x="324" y="-188" />
-                <mxPoint x="541" y="-188" />
+                <mxPoint x="324" y="-195" />
+                <mxPoint x="541" y="-195" />
               </Array>
               <mxPoint x="479.79999999999995" y="-151.76" as="targetPoint" />
             </mxGeometry>
@@ -523,11 +523,10 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="" lucidchartObjectId="~46SoxXiMcA4" id="Du6cDQnXWuCzEyuGrA_D-71">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;exitX=0.257;exitY=0.057;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" parent="1" source="Du6cDQnXWuCzEyuGrA_D-21" target="Du6cDQnXWuCzEyuGrA_D-16" edge="1">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;exitX=0.257;exitY=0.057;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" parent="1" source="Du6cDQnXWuCzEyuGrA_D-21" target="Du6cDQnXWuCzEyuGrA_D-16" edge="1">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points">
-                <mxPoint x="561" y="-214" />
-                <mxPoint x="499" y="-214" />
+                <mxPoint x="561" y="-233" />
               </Array>
               <mxPoint x="499.0800000000004" y="-165.5999999999999" as="sourcePoint" />
             </mxGeometry>
@@ -744,6 +743,34 @@
         </UserObject>
         <mxCell id="aB7QLTYLhxWNW0bwn9_k-10" value="Manage Order" style="text;html=1;resizable=0;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;fontStyle=1;fontColor=#333333;;fontSize=13.3;" parent="1" vertex="1">
           <mxGeometry x="-260.00112298434965" y="420.00262093901404" as="geometry" />
+        </mxCell>
+        <mxCell id="-LUCDSikNeme2i-oKjTY-1" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.431;exitY=0.002;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#5E5E5E;strokeWidth=1.5;" edge="1" parent="1" source="Du6cDQnXWuCzEyuGrA_D-21" target="Du6cDQnXWuCzEyuGrA_D-95">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="592" y="-179" as="sourcePoint" />
+            <mxPoint x="360" y="-270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="592" y="-421" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-LUCDSikNeme2i-oKjTY-3" value="Manipulate Item" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontStyle=1;fontColor=#333333;" vertex="1" connectable="0" parent="-LUCDSikNeme2i-oKjTY-1">
+          <mxGeometry x="0.636" relative="1" as="geometry">
+            <mxPoint x="55" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-LUCDSikNeme2i-oKjTY-2" value="" style="endArrow=classic;html=1;entryX=0.366;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#5E5E5E;strokeWidth=1.5;" edge="1" parent="1" source="Du6cDQnXWuCzEyuGrA_D-95" target="Du6cDQnXWuCzEyuGrA_D-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="-250" as="sourcePoint" />
+            <mxPoint x="440" y="-300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="581" y="-384" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-LUCDSikNeme2i-oKjTY-4" value="Item Info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontStyle=1;fontColor=#333333;" vertex="1" connectable="0" parent="-LUCDSikNeme2i-oKjTY-2">
+          <mxGeometry x="-0.6831" y="-1" relative="1" as="geometry">
+            <mxPoint x="78" y="13" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
