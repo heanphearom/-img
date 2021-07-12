@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T14:09:56.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64" etag="SaFn6QduEF8csj6hV3gk" version="14.8.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-12T14:12:07.963Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64" etag="BnoCZwVPT0a6CQxkBlXE" version="14.8.5" type="github" pages="2">
   <diagram id="ig_W4LufvhVDZaFNu0tv" name="One_diragram">
     <mxGraphModel dx="2037" dy="1309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -790,7 +790,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NR9FBxKzJ1sFdjmPLtk-" name="Manage Order">
-    <mxGraphModel dx="496" dy="1929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="413" dy="1884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="6z-YKV-usNiowaUgytBd-0" />
         <mxCell id="6z-YKV-usNiowaUgytBd-1" parent="6z-YKV-usNiowaUgytBd-0" />
@@ -1244,7 +1244,7 @@
         </mxCell>
         <mxCell id="S3GhA7aCZ_6_KTUGb6-M-0" value="Shipping Address" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BGODIQDAFqoT6KAg_n9h-0">
           <mxGeometry x="0.1469" y="1" relative="1" as="geometry">
-            <mxPoint x="140" y="-12" as="offset" />
+            <mxPoint x="92" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XnadKAaTNIUUxO0OVoBq-0" value="" style="endArrow=classic;html=1;exitX=0.067;exitY=0.252;exitDx=0;exitDy=0;entryX=0.625;entryY=0.996;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="6z-YKV-usNiowaUgytBd-1" source="0-F_MC79DTzPeH-id1EV-45" target="-efcSarKUrQsdEvbuRBu-0">
@@ -1260,7 +1260,7 @@
         </mxCell>
         <mxCell id="YH1Mf4WimBeKmtENIBw8-0" value="Make Payment" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XnadKAaTNIUUxO0OVoBq-0">
           <mxGeometry x="0.0766" y="-1" relative="1" as="geometry">
-            <mxPoint x="102" y="-10" as="offset" />
+            <mxPoint x="44" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YH1Mf4WimBeKmtENIBw8-1" value="" style="endArrow=classic;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="6z-YKV-usNiowaUgytBd-1" source="0-F_MC79DTzPeH-id1EV-45" target="-efcSarKUrQsdEvbuRBu-0">
@@ -1276,7 +1276,18 @@
         </mxCell>
         <mxCell id="IxWtSCXpSKGyI9i-hfLF-0" value="Manipulate Order" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YH1Mf4WimBeKmtENIBw8-1">
           <mxGeometry x="-0.4459" relative="1" as="geometry">
-            <mxPoint x="-24" y="-14" as="offset" />
+            <mxPoint x="-67" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dITmbhDPbkSd2-4gKw2--0" value="" style="endArrow=classic;html=1;entryX=0.907;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.327;exitY=0.029;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="6z-YKV-usNiowaUgytBd-1" source="0-F_MC79DTzPeH-id1EV-45" target="-efcSarKUrQsdEvbuRBu-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1400" y="-530" as="sourcePoint" />
+            <mxPoint x="1450" y="-580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dITmbhDPbkSd2-4gKw2--1" value="Make Order" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dITmbhDPbkSd2-4gKw2--0">
+          <mxGeometry x="-0.1619" y="1" relative="1" as="geometry">
+            <mxPoint x="-54" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
