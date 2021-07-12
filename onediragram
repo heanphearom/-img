@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T15:11:57.078Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64" etag="KUYX78fzZGg1WR28sZdq" version="14.8.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-12T15:13:52.344Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64" etag="5fBDaPfhxrop5vE1iDRI" version="14.8.5" type="github" pages="2">
   <diagram id="ig_W4LufvhVDZaFNu0tv" name="One_diragram">
     <mxGraphModel dx="2905" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1304,7 +1304,7 @@
         </mxCell>
         <mxCell id="O-GYNEOTm0wx2vOgTA6C-0" value="Product Info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e2ry5gCeEQdsDefgJWwQ-0">
           <mxGeometry x="-0.3735" y="1" relative="1" as="geometry">
-            <mxPoint x="-38" y="11" as="offset" />
+            <mxPoint x="-61" y="11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e2ry5gCeEQdsDefgJWwQ-1" value="" style="endArrow=classic;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="6z-YKV-usNiowaUgytBd-1" source="IKf1xFnBh8Ww6VHhYbCy-0" target="GdO-Zx7uf4vlWWAJkgQi-0">
@@ -1318,7 +1318,7 @@
         </mxCell>
         <mxCell id="3W3898FRgg05berUqtBr-0" value="Manipulate Product" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e2ry5gCeEQdsDefgJWwQ-1">
           <mxGeometry x="0.5937" y="-2" relative="1" as="geometry">
-            <mxPoint x="-63" y="9" as="offset" />
+            <mxPoint x="-113" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
         <UserObject label="Category" lucidchartObjectId="-AFT7-AViVAE" id="3W3898FRgg05berUqtBr-1">
