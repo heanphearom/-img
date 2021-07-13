@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-13T14:55:09.722Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.67" etag="QnI8VDF2UN-T2wiJet5z" version="14.8.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-07-13T14:58:12.217Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.67" etag="C218_EfAWnKWQOp4LdnR" version="14.8.5" type="github" pages="3">
   <diagram id="ig_W4LufvhVDZaFNu0tv" name="One_diragram">
     <mxGraphModel dx="1582" dy="1057" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -790,7 +790,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NR9FBxKzJ1sFdjmPLtk-" name="Manage Order">
-    <mxGraphModel dx="347" dy="1847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2170" dy="2859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="6z-YKV-usNiowaUgytBd-0" />
         <mxCell id="6z-YKV-usNiowaUgytBd-1" parent="6z-YKV-usNiowaUgytBd-0" />
@@ -801,12 +801,12 @@
         </UserObject>
         <UserObject label="Add Product to Cart" lucidchartObjectId="RtwTxHZmXtyv" id="6z-YKV-usNiowaUgytBd-3">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;whiteSpace=wrap;fontSize=18;spacing=0;strokeColor=#666666;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;fillColor=#f5f5f5;fontStyle=1;fontColor=#333333;" parent="6z-YKV-usNiowaUgytBd-1" vertex="1">
-            <mxGeometry x="733.5" y="-1630" width="135" height="135" as="geometry" />
+            <mxGeometry x="733.5" y="-1632.5" width="140" height="140" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Input Shipping Info" lucidchartObjectId="duwTIbqkc~IT" id="6z-YKV-usNiowaUgytBd-4">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;whiteSpace=wrap;fontSize=18;spacing=0;strokeColor=#666666;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;fillColor=#f5f5f5;fontStyle=1;fontColor=#333333;" parent="6z-YKV-usNiowaUgytBd-1" vertex="1">
-            <mxGeometry x="733.5" y="-1420" width="135" height="135" as="geometry" />
+            <mxGeometry x="733.5" y="-1420" width="140" height="140" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Order" lucidchartObjectId="muwTxsQhyd4s" id="6z-YKV-usNiowaUgytBd-5">
@@ -830,7 +830,7 @@
           <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;exitX=0.378;exitY=1.015;exitPerimeter=0;entryX=1.008;entryY=0.5;entryPerimeter=0;" parent="6z-YKV-usNiowaUgytBd-1" source="6z-YKV-usNiowaUgytBd-5" target="6z-YKV-usNiowaUgytBd-4" edge="1">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points">
-                <mxPoint x="1077" y="-1352.76" />
+                <mxPoint x="1077" y="-1350" />
               </Array>
             </mxGeometry>
           </mxCell>
@@ -842,7 +842,7 @@
         </mxCell>
         <UserObject label="Check out" lucidchartObjectId=".uwTPJcEwaBD" id="6z-YKV-usNiowaUgytBd-10">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;whiteSpace=wrap;fontSize=18;spacing=0;strokeColor=#666666;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;fillColor=#f5f5f5;fontStyle=1;fontColor=#333333;" parent="6z-YKV-usNiowaUgytBd-1" vertex="1">
-            <mxGeometry x="733.5" y="-1202" width="135" height="135" as="geometry" />
+            <mxGeometry x="733.5" y="-1202" width="140" height="140" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Seller" lucidchartObjectId="yxwThhqHHhz." id="6z-YKV-usNiowaUgytBd-11">
@@ -892,7 +892,7 @@
           <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;exitX=0.378;exitY=-0.015;exitPerimeter=0;entryX=0.01;entryY=0.636;entryPerimeter=0;" parent="6z-YKV-usNiowaUgytBd-1" source="6z-YKV-usNiowaUgytBd-11" target="6z-YKV-usNiowaUgytBd-10" edge="1">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points">
-                <mxPoint x="432" y="-1115.76" />
+                <mxPoint x="432" y="-1113" />
               </Array>
             </mxGeometry>
           </mxCell>
@@ -904,7 +904,7 @@
         </mxCell>
         <UserObject label="Shipping" lucidchartObjectId="g~wTl22uYdDa" id="6z-YKV-usNiowaUgytBd-20">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=18;spacing=0;strokeColor=#666666;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;fillColor=#f5f5f5;fontStyle=1;fontColor=#333333;" parent="6z-YKV-usNiowaUgytBd-1" vertex="1">
-            <mxGeometry x="990" y="-1172" width="210" height="75" as="geometry" />
+            <mxGeometry x="990" y="-1169.5" width="210" height="75" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Product" lucidchartObjectId="GAFTkNbDduzP" id="6z-YKV-usNiowaUgytBd-21">
@@ -921,7 +921,7 @@
           <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;exitX=0.5;exitY=-0.015;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="6z-YKV-usNiowaUgytBd-1" source="6z-YKV-usNiowaUgytBd-21" target="6z-YKV-usNiowaUgytBd-27" edge="1">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points">
-                <mxPoint x="630" y="-1515" />
+                <mxPoint x="630" y="-1513" />
               </Array>
             </mxGeometry>
           </mxCell>
@@ -935,8 +935,7 @@
           <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;exitX=0.5;exitY=0;entryX=0;entryY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="6z-YKV-usNiowaUgytBd-1" source="6z-YKV-usNiowaUgytBd-22" target="6z-YKV-usNiowaUgytBd-27" edge="1">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points">
-                <mxPoint x="304" y="-1515" />
-                <mxPoint x="410" y="-1515" />
+                <mxPoint x="304" y="-1513" />
               </Array>
             </mxGeometry>
           </mxCell>
@@ -948,7 +947,7 @@
         </mxCell>
         <UserObject label="Check Product" lucidchartObjectId="rDFTMXr7Xs0b" id="6z-YKV-usNiowaUgytBd-27">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;whiteSpace=wrap;fontSize=18;spacing=0;strokeColor=#666666;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;fillColor=#f5f5f5;fontStyle=1;fontColor=#333333;" parent="6z-YKV-usNiowaUgytBd-1" vertex="1">
-            <mxGeometry x="390" y="-1630" width="135" height="135" as="geometry" />
+            <mxGeometry x="390" y="-1632.5" width="140" height="140" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="QEFTY8LkntF-" id="6z-YKV-usNiowaUgytBd-28">
@@ -977,14 +976,14 @@
         </mxCell>
         <UserObject label="Shipping" lucidchartObjectId="gJFTPtRdRY1P" id="6z-YKV-usNiowaUgytBd-32">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;whiteSpace=wrap;fontSize=18;spacing=0;strokeColor=#666666;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;fillColor=#f5f5f5;fontStyle=1;fontColor=#333333;" parent="6z-YKV-usNiowaUgytBd-1" vertex="1">
-            <mxGeometry x="733.5" y="-955" width="135" height="135" as="geometry" />
+            <mxGeometry x="733.5" y="-955" width="140" height="140" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="EJFTiN4-d~SD" id="6z-YKV-usNiowaUgytBd-33">
           <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;exitX=0.5;exitY=1.015;exitPerimeter=0;entryX=0.976;entryY=0.322;entryPerimeter=0;" parent="6z-YKV-usNiowaUgytBd-1" source="6z-YKV-usNiowaUgytBd-20" target="6z-YKV-usNiowaUgytBd-32" edge="1">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points">
-                <mxPoint x="1095" y="-911.76" />
+                <mxPoint x="1095" y="-910" />
               </Array>
             </mxGeometry>
           </mxCell>
@@ -1010,7 +1009,7 @@
           <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;exitX=0.629;exitY=-0.015;exitPerimeter=0;entryX=0.124;entryY=0.842;entryPerimeter=0;" parent="6z-YKV-usNiowaUgytBd-1" source="6z-YKV-usNiowaUgytBd-11" target="6z-YKV-usNiowaUgytBd-10" edge="1">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points">
-                <mxPoint x="485" y="-1088.76" />
+                <mxPoint x="485" y="-1084" />
               </Array>
             </mxGeometry>
           </mxCell>
@@ -1038,7 +1037,8 @@
           <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;exitX=0.775;exitY=1.015;exitPerimeter=0;entryX=0.159;entryY=0.877;entryPerimeter=0;" parent="6z-YKV-usNiowaUgytBd-1" source="6z-YKV-usNiowaUgytBd-2" target="6z-YKV-usNiowaUgytBd-4" edge="1">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points">
-                <mxPoint x="193" y="-1301.76" />
+                <mxPoint x="193" y="-1297" />
+                <mxPoint x="756" y="-1297" />
               </Array>
             </mxGeometry>
           </mxCell>
@@ -1079,7 +1079,7 @@
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points">
                 <mxPoint x="1260" y="-1562" />
-                <mxPoint x="1260" y="-866" />
+                <mxPoint x="1260" y="-863" />
               </Array>
             </mxGeometry>
           </mxCell>
