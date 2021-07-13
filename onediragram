@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-13T16:48:01.074Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.67" etag="6-kOaq31uF681viDO68o" version="14.8.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-07-13T16:54:04.201Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.67" etag="M0dk5o4ndsbeqCtQYWad" version="14.8.5" type="github" pages="3">
   <diagram id="ig_W4LufvhVDZaFNu0tv" name="One_diragram">
     <mxGraphModel dx="2409" dy="1516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -802,14 +802,14 @@
         <mxCell id="26g2Oo9uI8CV53fV5nvb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=13;fontColor=#5E5E5E;strokeColor=#5E5E5E;strokeWidth=1.5;" edge="1" parent="6z-YKV-usNiowaUgytBd-1" source="6z-YKV-usNiowaUgytBd-3" target="26g2Oo9uI8CV53fV5nvb-0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1680" y="-1562" />
-              <mxPoint x="1680" y="-864" />
+              <mxPoint x="1600" y="-1562" />
+              <mxPoint x="1600" y="-864" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="26g2Oo9uI8CV53fV5nvb-6" value="Product Info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontColor=#5E5E5E;" vertex="1" connectable="0" parent="26g2Oo9uI8CV53fV5nvb-5">
           <mxGeometry x="-0.1434" y="-3" relative="1" as="geometry">
-            <mxPoint x="-397" y="-209" as="offset" />
+            <mxPoint x="-387" y="-225" as="offset" />
           </mxGeometry>
         </mxCell>
         <UserObject label="Add Product to Cart" lucidchartObjectId="RtwTxHZmXtyv" id="6z-YKV-usNiowaUgytBd-3">
@@ -830,18 +830,17 @@
             <mxGeometry x="833.5" y="-1420" width="140" height="140" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="26g2Oo9uI8CV53fV5nvb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1.003;entryY=0.427;entryDx=0;entryDy=0;fontSize=13;fontColor=#5E5E5E;strokeColor=#5E5E5E;strokeWidth=1.5;entryPerimeter=0;" edge="1" parent="6z-YKV-usNiowaUgytBd-1" source="6z-YKV-usNiowaUgytBd-10" target="26g2Oo9uI8CV53fV5nvb-0">
+        <mxCell id="26g2Oo9uI8CV53fV5nvb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1.003;entryY=0.427;entryDx=0;entryDy=0;fontSize=13;fontColor=#5E5E5E;strokeColor=#5E5E5E;strokeWidth=1.5;entryPerimeter=0;" edge="1" parent="6z-YKV-usNiowaUgytBd-1" source="6z-YKV-usNiowaUgytBd-10" target="26g2Oo9uI8CV53fV5nvb-0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1160" y="-1460" />
-              <mxPoint x="1640" y="-1460" />
-              <mxPoint x="1640" y="-888" />
+              <mxPoint x="1540" y="-1399" />
+              <mxPoint x="1540" y="-888" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="26g2Oo9uI8CV53fV5nvb-2" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-weight: 700&quot;&gt;Order Info&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontColor=#5E5E5E;" vertex="1" connectable="0" parent="26g2Oo9uI8CV53fV5nvb-1">
           <mxGeometry x="-0.2184" y="1" relative="1" as="geometry">
-            <mxPoint x="-211" y="-180" as="offset" />
+            <mxPoint x="-241" y="-228" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1Sqk1zdUQItTqZmHwY75-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.131;entryDx=0;entryDy=0;fontSize=13;fontColor=#5E5E5E;strokeColor=#5E5E5E;strokeWidth=1.5;entryPerimeter=0;" edge="1" parent="6z-YKV-usNiowaUgytBd-1" source="6z-YKV-usNiowaUgytBd-10" target="8e_7uoFSdMIp68wFVBwg-0">
