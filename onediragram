@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T07:36:43.726Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.67" etag="95wBi3RHkX6HOUNdXhQk" version="14.8.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-07-14T07:37:21.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.67" etag="ABhK9WIO9xUeD6siPKTx" version="14.8.6" type="github" pages="3">
   <diagram id="ig_W4LufvhVDZaFNu0tv" name="One_diragram">
     <mxGraphModel dx="2591" dy="1621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1344,7 +1344,7 @@
         </mxCell>
         <mxCell id="5BLjvkxt4gWozGY9f70L-3" value="Manipulate Order" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5BLjvkxt4gWozGY9f70L-2">
           <mxGeometry x="0.1449" y="2" relative="1" as="geometry">
-            <mxPoint x="-64" y="-8" as="offset" />
+            <mxPoint x="-55" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5BLjvkxt4gWozGY9f70L-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="masy8Siwzb9ir6sEeQQE-1" source="ZQ6UGtTB_uvfDPaccfb9-4" target="ZQ6UGtTB_uvfDPaccfb9-3">
@@ -1357,7 +1357,7 @@
         </mxCell>
         <mxCell id="5BLjvkxt4gWozGY9f70L-5" value="Manage Order" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5BLjvkxt4gWozGY9f70L-4">
           <mxGeometry x="0.2993" relative="1" as="geometry">
-            <mxPoint x="129" y="10" as="offset" />
+            <mxPoint x="103" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <UserObject label="Input Shipping Info" lucidchartObjectId="rDFTMXr7Xs0b" id="ZQ6UGtTB_uvfDPaccfb9-4">
